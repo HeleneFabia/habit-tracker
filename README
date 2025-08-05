@@ -1,0 +1,8 @@
+# HABIT TRACKER
+
+Vibe-coding a macOS app to track my habits.
+
+Functionalities:
+- Define a habit you want to track, as well as its cadence (daily, specific days, weekly, every X weeks, monthly)
+- Check off the habit at its defined cadence
+- View which habits you checked off every day, week, and overall
